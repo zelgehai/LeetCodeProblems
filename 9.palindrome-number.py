@@ -5,6 +5,7 @@
 #
 
 # @lc code=start
+#Beats only 5% of python submissions (119 ms)
 class Solution(object):
     def isPalindrome(self, x):
         """
